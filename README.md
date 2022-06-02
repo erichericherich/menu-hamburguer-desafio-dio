@@ -10,8 +10,6 @@ nesse projeto foram usadas as tecnologias **HTML** e **CSS**, somente;
 
 # < resultado >
 
-```html
 <h1 align="center">
   <img alt="exemplo-site" title="#exemplo-site" src="./exemplo-min.gif" />
 </h1>
-```
