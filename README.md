@@ -1,4 +1,4 @@
-# < menu hamburguer/morphing menu com CSS transitions >
+# < menu hamburguer/morphing menu<br>com CSS transitions >
 
 projeto de exemplo de um portfólio utilizando CSS. dentre eles o CSS Transitions, utilizando pseudo elementos e pseudo classes e também CSS @keyframes.
 
